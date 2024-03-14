@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Arthurliyaze.
+- 👀 I’m interested in mathematics, psychology.
+- 🌱 I’m currently learning real analysis and algebra
+- 💞️ I aim to secure employment in either the finance or electrical engineering sectors.
