@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Arthurliyaze.
-- 👀 I’m interested in mathematics, psychology.
-- 🌱 I’m currently learning real analysis and algebra
-- 💞️ I aim to secure employment in either the finance or electrical engineering sectors.
+- :wave: Hi, I’m @Arthurliyaze.
+- :mortar_board: I earned my Ph.D in [Electrical Engineering](https://electrical-engineering.uark.edu/index.php), [University of Arkansas](https://www.uark.edu/).
+- :eyes: I’m interested in mathematics and psychology.
+- :books: I’m currently learning real analysis, algebra, and book *A Practical Guide to Quantitative Finance Interviews*.
+- :office: I aim to secure employment in either the finance or electrical engineering.
+- :hearts: I also love anime, rock music, cocktails and my cat Jiggs.
