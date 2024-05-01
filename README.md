@@ -1,6 +1,6 @@
 - :wave: Hi, I’m @Arthurliyaze.
 - :mortar_board: I earned my Ph.D in [Electrical Engineering](https://electrical-engineering.uark.edu/index.php), [University of Arkansas](https://www.uark.edu/).
 - :eyes: I’m interested in mathematics and psychology.
-- :books: I’m currently learning real analysis, algebra, and book *A Practical Guide to Quantitative Finance Interviews*.
-- :office: I aim to secure employment in either the finance or electrical engineering.
+- :books: I’m currently learning the book *Quant Job Interview Questions and Answers*.
+- :office: I aim to secure employment as either an quantitative analyst or an electrical engineer.
 - :hearts: I also love anime, rock music, cocktails and my cat Jiggs.
