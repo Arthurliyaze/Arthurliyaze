@@ -3,5 +3,5 @@
 - :eyes: I’m interested in mathematics and psychology.
 - :books: I’m currently reading the book [*Proofs: A Long-form Mathematics Textbook*](https://www.amazon.ca/Proofs-Long-Form-Mathematics-Jay-Cummings/dp/B08T8JCVF1).
 - :office: I'm currently work as a Power System Engineer in [CF Power Ltd.](https://www.cfpowerltd.com/).
-- :hearts: I also love hiking, anime, rock music, cocktails and my cat Jiggs.
+- :hearts: I also love hiking, anime, rock music, cocktails and my cat [Jiggs](https://www.instagram.com/jiggs.tabbycat?igsh=djIwcDd1cGNqdW5r).
 - 🎮  I am playing [Monster Hunter Wilds](https://en.wikipedia.org/wiki/Monster_Hunter_Wilds) recently.
