@@ -4,4 +4,4 @@
 - :books: I’m currently reading the book [*Power System Analysis and Design, SI Edition*](https://www.amazon.ca/Power-System-Analysis-Design-SI/dp/130563618X).
 - :office: I'm currently work as a Senior Power System Engineer in [CF Power Ltd.](https://www.cfpowerltd.com/).
 - :hearts: I also love hiking, anime, rock music, cocktails and my cat [Jiggs](https://www.instagram.com/jiggs.tabbycat?igsh=djIwcDd1cGNqdW5r).
-- 🎮  I am playing [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight) recently, and prepare for [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong).
+- 🎮  I am playing [Ghost of Yōtei](https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei) recently.
