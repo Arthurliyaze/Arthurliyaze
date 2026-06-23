@@ -2,6 +2,6 @@
 - :mortar_board: I earned my Ph.D in [Electrical Engineering](https://electrical-engineering.uark.edu/index.php), [University of Arkansas](https://www.uark.edu/).
 - :eyes: I’m interested in mathematics and psychology.
 - :books: I’m currently reading the book [*Power System Analysis and Design, SI Edition*](https://www.amazon.ca/Power-System-Analysis-Design-SI/dp/130563618X).
-- :office: I'm currently work as a Senior Power System Engineer in [CF Power Ltd.](https://www.cfpowerltd.com/).
+- :office: I'm currently work as a Senior Power System Engineer in [E Source - Grid Engineering and Interconnection](https://www.esource.com/grid-solutions).
 - :hearts: I also love hiking, anime, rock music, cocktails and my cat [Jiggs](https://www.instagram.com/jiggs.tabbycat?igsh=djIwcDd1cGNqdW5r).
 - 🎮  I am playing [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) recently.
